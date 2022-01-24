@@ -10,12 +10,12 @@ import pandas as pd
 import requests
 
 
-keyword = "face wash"
+keyword = "iphone"
 #pg_num = 3
 
 # set up the request parameters
 params = {
-  'api_key': '0B2B142AB0AC492290F021C8A2D49DFB',
+  'api_key': '0B2B152AB0AC491990F021C8A2D48DFB',
   'type': 'search',
   'amazon_domain': 'amazon.com',
   'search_term': keyword,
